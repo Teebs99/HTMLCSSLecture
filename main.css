@@ -29,6 +29,7 @@ form{
     border-radius:5px;
     border:solid 1px gray;
     background-color:white;
+    box-shadow:inset;
     
     
 }
@@ -46,6 +47,7 @@ form input{
     height:35px;
     border-radius:7px;
     border:1px solid lightgray;
+    
 }
 
 form button{
@@ -56,6 +58,18 @@ form button{
     color:white;
     border:none;
     border-radius: 7px;
+}
+img{
+    list-style-type:none;
+    width:50px;
+    height:50px;
+    margin:5px;
+}
+li{
+    display:inline-block;
+}
+ul{
+    margin-left:120px;
 }
 
 
